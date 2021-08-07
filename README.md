@@ -1,7 +1,7 @@
 ### Salve!! Meu nome é Douglas, mas pode me chamar de Tiduzz 👻
 
 - 🔭 Atualmente não trabalho, mas estou procurando serviço. (Me contrata 👀)
-- 🌱 Estou fazendo o bootcamp de Data Engineering na DIO (Digital Innovation One), oferecido pelo Banco Carrefour.
+- 🌱 Estou fazendo o bootcamp de Data Engineering na DIO (Digital Innovation One), e estudando back-end (Django, python).
 - 👯 Tô sempre olhando alguns projetos que acho bacana.
 - 📫 Discord: Tiduzz#5224 
 - 😄 Ele/Dele (Fiz certo isso? Espero que sim.)
