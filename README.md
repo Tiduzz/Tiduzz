@@ -1,9 +1,8 @@
-### Salve!! Meu nome é Douglas, mas pode me chamar de Tiduzz 👻
+⁸### Salve!! Meu nome é Douglas 👻
 
 - 🔭 Atualmente não trabalho, mas estou procurando serviço. (Me contrata 👀)
 - 🌱 Estou fazendo o bootcamp de Data Engineering na DIO (Digital Innovation One), e estudando back-end (Django, python).
 - 👯 Tô sempre olhando alguns projetos que acho bacana.
-- 📫 Discord: Tiduzz#5224 
 - 😄 Ele/Dele (Fiz certo isso? Espero que sim.)
 - 💬 English/Português fluentes >> Tô pra aprender LIBRAS e Japônes em um futuro próximo.
 
